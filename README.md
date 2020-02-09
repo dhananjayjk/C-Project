@@ -1,0 +1,3 @@
+- This is simple C program done after introduction to C language.
+- It includes simple character based authentication, file handling and data manipulation.
+- GCC compiler is necessary to run this program.
